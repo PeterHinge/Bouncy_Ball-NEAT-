@@ -9,15 +9,15 @@ Requirements:
 <br>PyGame 1.9
 _______________________________________________________
 Plan:
-2019-06-04: Read paper wanna make a NEAT algorithm
-2019-06-05: Saw YouTube video - can use Flappy bird to test. Easy because there is only one output (click/ not click).
+<br>2019-06-04: Read paper wanna make a NEAT algorithm
+<br>2019-06-05: Saw YouTube video - can use Flappy bird to test. Easy because there is only one output (click/ not click).
 
 _______________________________________________________
 Log:
-2019-06-06: Simple NEAT mostly done - still need crossover 
-2019-06-07: Simple NEAT finished - Not debugged
-2019-06-09: Done with Bouncy ball game - have to combine it with NEAT
-2019-06-10: Everthing works 
+<br>2019-06-06: Simple NEAT mostly done - still need crossover 
+<br>2019-06-07: Simple NEAT finished - Not debugged
+<br>2019-06-09: Done with Bouncy ball game - have to combine it with NEAT
+<br>2019-06-10: Everthing works 
 _______________________________________________________
 Notes:
-2019-06-10: Maybe game was too simple, all NEAT has to figure out in to keep the ball over next pipe pairs bottom pipe which mean only one connection needs to be made in order for it to win
+<br>2019-06-10: Maybe game was too simple, all NEAT has to figure out in to keep the ball over next pipe pairs bottom pipe which mean only one connection needs to be made in order for it to win
